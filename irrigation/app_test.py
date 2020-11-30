@@ -9,7 +9,6 @@ def irrigation():
     # get your api key first
     # https://home.openweathermap.org/api_keys
     key = "enter_your_api_key_here"
-    key = "e5cc7d0b30f6ab0b16c8dbaab5dca8e7"
     # find your coordinates
     # https://www.latlong.net/
     longitude = ""
