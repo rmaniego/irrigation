@@ -1,3 +1,3 @@
 #!/bin/sh
 
-cp irrigation/basic.py irrigation.py
+cp irrigation/app.py irrigation.py
